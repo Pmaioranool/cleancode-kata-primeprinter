@@ -63,7 +63,6 @@ public class PrimePrinterHelper {
             System.out.println("\f");
             PAGENUMBER++;
             PAGEOFFSET += RR * CC;
-
         }
     }
 }
